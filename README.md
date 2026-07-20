@@ -183,10 +183,9 @@ Secure, full-stack expense management app with categorised tracking and AI-gener
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadHaris249518&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaris249518&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&text_color=c9d1d9" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=MuhammadHaris249518&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
+<img src="https://img.shields.io/github/followers/MuhammadHaris249518?style=for-the-badge&color=764ba2&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MuhammadHaris249518&label=PUBLIC%20REPOS&query=$.public_repos&color=667eea&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
+<img src="https://img.shields.io/github/stars/MuhammadHaris249518?style=for-the-badge&color=8957e5&logo=github&logoColor=white&label=TOTAL%20STARS" alt="Stars"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaris249518&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
 
