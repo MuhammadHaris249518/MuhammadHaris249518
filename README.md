@@ -115,21 +115,21 @@ AI-powered, community-verified food discovery platform for Islamabad & Rawalpind
 <tr>
 <td width="50%" valign="top">
 
-### 🍪 Crumble Vision AI
-**Cookie Defect Detection & Synthetic Image Generation**
+### 🏏 Cricko Lab7
+**Cricket Tournament Management Platform**
 
-FastAPI + React/Vite/Konva system that lets users draw annotation masks on cookie images and generates AI-inpainted defect images using MobileSAM + SDXL inpainting.
+Full-stack cricket tournament system with player registration, scheduling and live tracking, backed by a JWT-secured REST API and admin panel.
 
 **Key Features:**
-- MobileSAM-powered AI Select segmentation
-- SDXL inpainting pipeline for synthetic defect generation
-- Deployed on Camber Cloud with GPU support
+- Player registration & tournament scheduling
+- Live match tracking
+- JWT-secured REST API with admin panel
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[🔗 Repo](https://github.com/MuhammadHaris249518/Crumble_VisionAI)
+[🔗 Repo](https://github.com/MuhammadHaris249518/cricko-lab7) · [🌐 Live Demo](https://cricko-lab7-g6zu4ojsr-haris-s-projects-c66dde6b.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -155,17 +155,6 @@ Secure, full-stack expense management app with categorised tracking and AI-gener
 </table>
 
 <div align="center">
-
-### 🏏 Cricko Lab7 — Cricket Tournament Platform
-Full-stack cricket tournament system with player registration, scheduling and live tracking, backed by a JWT-secured REST API and admin panel.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[🔗 Repo](https://github.com/MuhammadHaris249518/cricko-lab7) · [🌐 Live Demo](https://cricko-lab7-g6zu4ojsr-haris-s-projects-c66dde6b.vercel.app/)
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-uwmn.vercel.app/)
 
