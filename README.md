@@ -1,65 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Haris&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Haris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descSize=18&descAlignY=55" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;FastAPI+%2B+Next.js+%2B+LangGraph+Agents;Turning+Ideas+Into+Real-World+Solutions" alt="Typing Animation"/>
 
 <br/>
 
-### 🚀 Building AI-Powered, Production-Grade Web Apps
+[![Portfolio](https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-uwmn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haris-wyibe/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrylife581@gmail.com)
 
-<p>
-  <a href="https://my-portfolio-uwmn.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-haris-wyibe/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harrylife581@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadHaris249518&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadHaris249518&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-## 🤖 About Me
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-- 🎓 **BS Computer Games Development** student at **Air University, Islamabad, Pakistan** (4th Semester)
-- 💻 **Full Stack Developer** at **Wyibe**, an NIC-incubated startup — building REST APIs, PostgreSQL/Supabase schemas, and automation workflows
-- 🧠 Building **AI-powered solutions** with **LangChain, LangGraph, RAG pipelines & LLM agents**
-- 🛠️ Core stack: **Next.js, React, FastAPI, Python, PostgreSQL, MongoDB**
-- 🌱 Currently mastering **LLM agents, RAG pipelines, System Design & cloud/GPU deployment**
-- 🎯 **Goal:** Become a well-rounded **AI Engineer & Full-Stack Developer**
-- 🤝 Open to **remote junior engineering roles, internships & freelance work**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Illustration"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="30"/> About Me
 
-## 🛠️ Tech Stack
+🎓 **BS Computer Games Development** student (4th Semester) at **Air University, Islamabad, Pakistan**
 
-#### 💬 Languages & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vercel" />
-</p>
+💻 **Full Stack Developer** at **Wyibe**, an NIC-incubated startup — building REST APIs, PostgreSQL/Supabase schemas & automation workflows
 
-#### ⚙️ Backend, Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis,supabase,docker,git,github" />
-</p>
+🤖 Building **AI-powered solutions** with **LangChain, LangGraph, RAG pipelines & LLM agents**
 
-#### 🤖 AI / ML & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=huggingface" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
+🌱 Currently mastering **LLM agents, RAG pipelines, System Design & cloud/GPU deployment**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+🎯 **Goal:** Become a well-rounded **AI Engineer & Full-Stack Developer**
 
-## 🚀 Featured Projects
+🤝 Open to **remote junior engineering roles, internships & freelance work**
+
+<br clear="right"/>
+
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
+
+<div align="center">
+
+### 💬 Languages & Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vercel&perline=8" alt="Languages and Frontend"/>
+
+### ⚙️ Backend, Databases & Cloud
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis,supabase,docker,git,github&perline=11" alt="Backend and Databases"/>
+
+### 🤖 AI / ML & Automation
+<img src="https://skillicons.dev/icons?i=huggingface&perline=8" alt="AI ML"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+
+</div>
+
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
 
 <table>
 <tr>
@@ -75,7 +85,9 @@ AI-powered, community-verified food discovery platform for Islamabad & Rawalpind
 - Geo-filtered semantic search via PostGIS + pgvector
 - JWT / RBAC / Redis-secured backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,redis,docker" />
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 [🔗 Repo](https://github.com/MuhammadHaris249518/Foodly)
 
@@ -90,15 +102,36 @@ AI-powered, community-verified food discovery platform for Islamabad & Rawalpind
 **Key Features:**
 - RAG chatbot powered by LLaMA 3 (Groq)
 - Resume Analyser using SpaCy NER against 30 industry skills
-- FAISS-backed retrieval, FastAPI + Next.js 14
+- FAISS-backed retrieval, FastAPI + Next.js
 
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,python" />
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 [🔗 Repo](https://github.com/MuhammadHaris249518/sylorix)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🍪 Crumble Vision AI
+**Cookie Defect Detection & Synthetic Image Generation**
+
+FastAPI + React/Vite/Konva system that lets users draw annotation masks on cookie images and generates AI-inpainted defect images using MobileSAM + SDXL inpainting.
+
+**Key Features:**
+- MobileSAM-powered AI Select segmentation
+- SDXL inpainting pipeline for synthetic defect generation
+- Deployed on Camber Cloud with GPU support
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[🔗 Repo](https://github.com/MuhammadHaris249518/Crumble_VisionAI)
+
+</td>
 <td width="50%" valign="top">
 
 ### 💰 AI Expense Tracker
@@ -111,26 +144,11 @@ Secure, full-stack expense management app with categorised tracking and AI-gener
 - Automated PDF report generation
 - Secure authentication & categorised tracking
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 [🔗 Repo](https://github.com/MuhammadHaris249518/Expense-tracker)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ Background Removal Web App
-**AI-Powered Image Segmentation**
-
-Real-time background removal with drag-and-drop upload, instant before/after preview, and one-click download — deployed on Vercel.
-
-**Key Features:**
-- Real-time AI segmentation
-- Drag-and-drop upload UI
-- Instant preview & single-click download
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vercel" />
-
-[🔗 Repo](https://github.com/MuhammadHaris249518/BG-Removal-App) · [🌐 Live Demo](https://hx-bg-removalapp.vercel.app)
 
 </td>
 </tr>
@@ -141,74 +159,79 @@ Real-time background removal with drag-and-drop upload, instant before/after pre
 ### 🏏 Cricko Lab7 — Cricket Tournament Platform
 Full-stack cricket tournament system with player registration, scheduling and live tracking, backed by a JWT-secured REST API and admin panel.
 
-<img src="https://skillicons.dev/icons?i=html,js,nodejs,express,mongodb,vercel" />
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 [🔗 Repo](https://github.com/MuhammadHaris249518/cricko-lab7) · [🌐 Live Demo](https://cricko-lab7-g6zu4ojsr-haris-s-projects-c66dde6b.vercel.app/)
 
 <br/>
 
-<a href="https://my-portfolio-uwmn.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/View_All_Projects-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-uwmn.vercel.app/)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20PIPELINES-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-f97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLOUD%20GPU%20DEPLOYMENT-1d4ed8?style=for-the-badge" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadHaris249518&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8957e5&icon_color=8957e5&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaris249518&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=8957e5&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadHaris249518&theme=dark&hide_border=true&background=0d1117&ring=8957e5&fire=f97316&currStreakLabel=8957e5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaris249518&theme=react-dark&hide_border=true&bg_color=0d1117&color=8957e5&line=8957e5&point=f97316" width="100%"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30"/> Currently Learning
 
 <div align="center">
 
+![LLMs](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-2496ED?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloud GPU](https://img.shields.io/badge/Cloud_GPU_Deployment-1d4ed8?style=for-the-badge)
+
+</div>
+
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHaris249518&theme=aura" width="100%" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadHaris249518&theme=aura" width="49%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadHaris249518&theme=aura" width="49%" alt="Most Commit Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadHaris249518&theme=aura" width="49%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadHaris249518&theme=aura&utcOffset=5" width="49%" alt="Productive Time"/>
+
+<img src="https://streak-stats.demolab.com/?user=MuhammadHaris249518&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaris249518&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
+
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/MuhammadHaris249518/MuhammadHaris249518/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/MuhammadHaris249518/MuhammadHaris249518/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 > *Add the [`snk`](https://github.com/Platane/snk) GitHub Action to your profile repo's workflow to activate this — it generates automatically after your first commit history run.*
 
 </div>
 
-## 📬 Let's Connect
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="30"/> Let's Connect
 
 <div align="center">
 
 I'm always open to discussing new projects, collaboration opportunities, internships, or ideas in AI and web development.
 
-<p>
-  <a href="https://my-portfolio-uwmn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-my--portfolio--uwmn.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-haris-wyibe/"><img src="https://img.shields.io/badge/LinkedIn-muhammad--haris--wyibe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harrylife581@gmail.com"><img src="https://img.shields.io/badge/Gmail-harrylife581%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--uwmn.vercel.app-764BA2?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-uwmn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--haris--wyibe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haris-wyibe/)
+[![Gmail](https://img.shields.io/badge/Gmail-harrylife581@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harrylife581@gmail.com)
 
-<i>"I believe technology should solve real-world problems and make people's lives easier."</i>
+<br/>
 
-<br/><br/>
+> *"I believe technology should solve real-world problems and make people's lives easier."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 
 </div>
