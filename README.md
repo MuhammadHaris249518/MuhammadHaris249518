@@ -183,10 +183,15 @@ Secure, full-stack expense management app with categorised tracking and AI-gener
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadHaris249518&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaris249518&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=764ba2&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHaris249518&theme=aura" width="100%" alt="Profile Details"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadHaris249518&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadHaris249518&theme=aura" width="49%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadHaris249518&theme=aura" width="49%" alt="Most Commit Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadHaris249518&theme=aura" width="49%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadHaris249518&theme=aura&utcOffset=5" width="49%" alt="Productive Time"/>
+
+<img src="https://streak-stats.demolab.com/?user=MuhammadHaris249518&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaris249518&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
 
