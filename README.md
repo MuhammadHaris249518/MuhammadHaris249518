@@ -184,8 +184,7 @@ Secure, full-stack expense management app with categorised tracking and AI-gener
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/MuhammadHaris249518?style=for-the-badge&color=764ba2&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MuhammadHaris249518&label=PUBLIC%20REPOS&query=$.public_repos&color=667eea&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
-<img src="https://img.shields.io/github/stars/MuhammadHaris249518?style=for-the-badge&color=8957e5&logo=github&logoColor=white&label=TOTAL%20STARS" alt="Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadHaris249518&label=PUBLIC%20REPOS&query=%24.public_repos&color=667eea&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaris249518&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
 
